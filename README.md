@@ -13,6 +13,9 @@
 <p>
     <img src="https://github.com/rkhatu97/Projects_Python/blob/master/Word_count_PySpark/spark_session.png" />
 </p>
+<p><b>IDE:</b> Jupyter</p>
+<p><b>Packages:</b></p>
+<p>PySpark</p>
 
 
 
